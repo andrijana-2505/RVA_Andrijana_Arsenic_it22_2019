@@ -1,0 +1,1 @@
+export const KREDIT_URL = "http://localhost:8084/kredit";
